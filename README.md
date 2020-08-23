@@ -1,10 +1,14 @@
-## What about me?🤔
-
-
-- 🔭 I’m currently working from home
-- 🌱 I’m currently learning UWP
-- 👯 I’m looking to collaborate on WPF or UWP
-- 🤔 I’m looking for help with desktop development in general  
-- 💬 Ask me about anything
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ikhtiyar-novruzov/)
-- 😄 Pronouns: He/Him
+![Cover](https://github.com/1khtiyar/1khtiyar/blob/master/GitCover.png)
+  
+### What about me?👀  
+  
+Desktop Developer who likes to document almost everything. Currently, a student at [ASOIU](http://asoiu.edu.az/en)👨‍🎓.  
+  
+👨‍💻 Learning **UWP**  
+👨‍🔧 Building on **WPF, WinForms, UWP**  
+🦾 Loving **C#, C++, Java, XAML**  
+  
+### Social    
+[CodeWars](https://www.codewars.com/users/1khtiyar)  
+[LinkedIn](https://www.linkedin.com/in/ikhtiyar-novruzov/)  
+[HackerRank](https://www.hackerrank.com/xnyton)  
