@@ -10,6 +10,4 @@
 ![Ikhtiyar's status](https://github-readme-stats.vercel.app/api?username=1khtiyar&&show_icons=true&count_private=true&theme=blue)
 ![Ikhtiyar's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1khtiyar&layout=compact&theme=blue)  
   
-## Social 
-  
-[LinkedIn](https://www.linkedin.com/in/ikhtiyar-novruzov)    [Codewars](https://www.codewars.com/users/1khtiyar)    [HackerRank](https://www.hackerrank.com/xnyton)
+For partnership, please contact me by fztxvbgtjad4@mail.ru.
